@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "296142847077",
+    "project_id": "challan-72877",
+    "storage_bucket": "challan-72877.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296142847077:android:93e3065a03400e5b8a9a8c",
+        "android_client_info": {
+          "package_name": "pb.co.challan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296142847077-nic07sd52jgh7ku3u0b2qjqi286cj360.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pb.co.challan",
+            "certificate_hash": "b14ea48d9a124219f32c1ebbb68d332822cd1ef2"
+          }
+        },
+        {
+          "client_id": "296142847077-qcbkmcegpiub8eaf7p09qq35647qapn3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTVeQwkTfbzEtXohg9sT8T2NL8QZ6MeBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296142847077-qcbkmcegpiub8eaf7p09qq35647qapn3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
